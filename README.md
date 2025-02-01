@@ -1,11 +1,24 @@
-# タイトル名未明
+# README
 
-## Requirements
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-- [Ruby](https://www.ruby-lang.org/ja/downloads/releases/) 3.4.1
-- [Rails](https://rubygems.org/gems/rails/versions?locale=ja) 7.1.2
-- [MySQL](https://dev.mysql.com/doc/relnotes/mysql/8.0/en/) 8.0.41
+Things you may want to cover:
 
-## 開発環境のセットアップ
+* Ruby version
 
-## Tips
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
