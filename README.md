@@ -57,7 +57,7 @@ docker comnpose build
 以下のコマンドを実行することで、サーバーが起動します。
 
 ```bash
-docker compose up down
+docker compose up -d
 ```
 
 サーバー起動後、[http://localhost:3000](http://localhost:3000) にアクセスすると、Rails のデフォルトページが表示されます。
