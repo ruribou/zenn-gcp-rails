@@ -15,12 +15,12 @@
 #### MacOS の場合
 
 [Docker Desktop for Mac](https://docs.docker.com/desktop/setup/install/mac-install/) をインストールしてください。
-設定で、使用できるメモリを 4GB ~ 6GB くらいにしておくと、動作が安定するのでオススメです。（参考: https://matsuand.github.io/docs.docker.jp.onthefly/desktop/mac/#resources）
+設定で、使用できるメモリを 4GB ~ 6GB くらいにしておくと、動作が安定するのでオススメです。（参考: https://matsuand.github.io/docs.docker.jp.onthefly/desktop/mac/#resources ）
 
 #### Windows の場合
 
 [Docker Desktop for Windows](https://docs.docker.com/desktop/setup/install/windows-install/) をインストールしてください。
-設定で、使用できるメモリを 4GB ~ 6GB くらいにしておくと、動作が安定するのでオススメです。（参考: https://matsuand.github.io/docs.docker.jp.onthefly/desktop/windows/#resources）
+設定で、使用できるメモリを 4GB ~ 6GB くらいにしておくと、動作が安定するのでオススメです。（参考: https://matsuand.github.io/docs.docker.jp.onthefly/desktop/windows/#resources ）
 
 ### 2. 初期設定
 
