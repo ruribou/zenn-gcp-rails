@@ -6,4 +6,4 @@ class Event < ApplicationRecord
     # t.integer :event_type
     # t.text :event_description
     # t.date :event_date
-  end
+end

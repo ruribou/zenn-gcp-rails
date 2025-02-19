@@ -6,4 +6,4 @@ class MentalHealth < ApplicationRecord
     # t.integer :stress_level
     # t.integer :happiness_score
     # t.text :advice
-  end
+end
