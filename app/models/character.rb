@@ -6,4 +6,4 @@ class Character < ApplicationRecord
     # t.string :question_1
     # t.string :question_2
     # t.text :details
-  end
+end

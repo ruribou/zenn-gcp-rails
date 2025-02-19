@@ -12,4 +12,4 @@ class User < ApplicationRecord
     # t.string :email
     # t.string :password
     # t.boolean :parent
-  end
+end

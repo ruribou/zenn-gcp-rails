@@ -5,4 +5,4 @@ class Chat < ApplicationRecord
 
     # t.text :message
     # t.text :reply
-  end
+end

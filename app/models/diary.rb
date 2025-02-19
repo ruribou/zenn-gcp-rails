@@ -7,4 +7,4 @@ class Diary < ApplicationRecord
     # t.text :positive_experience
     # t.text :negative_experience
     # t.text :friends_activity
-  end
+end
