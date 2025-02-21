@@ -1,0 +1,2 @@
+class MentalHealthController < ApplicationController
+end
